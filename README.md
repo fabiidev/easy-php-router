@@ -1,6 +1,6 @@
 # PHP Router
 
-This is a simple PHP class that provides routing functionality for a web application. The router allows to call certain
+This is a simple PHP (8.2.4) class that provides routing functionality for a web application. The router allows to call certain
 functions based on the URL and HTTP method.
 
 ## Installation
